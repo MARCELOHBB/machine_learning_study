@@ -46,5 +46,9 @@ The following technologies were used:
   ## :pushpin: Examples - Graphics from the unsupervised learn files
   
   
-  
-  
+ ##KMeans Groups by genres 
+ ![Screenshot](graphics1.png)
+ 
+ 
+  ##TSNE scatterplot visualization 
+ ![Screenshot](graphics2.png)
