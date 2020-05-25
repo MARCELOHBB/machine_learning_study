@@ -41,3 +41,10 @@ The following technologies were used:
  
  
  This project was developed in VScode, if you use the same IDE, run the program in Python Interactive Window to view the graphics.
+ 
+ 
+  ## :pushpin: Examples - Graphics from the unsupervised learn files
+  
+  
+  
+  
